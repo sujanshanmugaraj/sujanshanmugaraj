@@ -1,5 +1,3 @@
-## Hi there 
-
 # 💫 About Me:
 Hello! I am **SUJAN S**, a Data Science Student at PSG College of Technology, Coimbatore.  
 - 🔭 I’m excited to collaborate on innovative projects and contribute to open-source communities.  
