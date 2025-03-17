@@ -1,16 +1,16 @@
 ## Hi there 👋
 
  ## 📊 Profile Stats
-![Lalith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujanshanmugaraj-S&show_icons=true&theme=aura)
+![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujanshanmugaraj&show_icons=true&theme=aura)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sujanshanmugaraj-S&theme=aura)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sujanshanmugaraj&theme=aura)](https://git.io/streak-stats)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=sujanshanmugaraj-S&color=0f0f0f&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=sujanshanmugaraj&color=0f0f0f&style=for-the-badge)
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujanshanmugaraj-S&layout=compact&langs_count=5&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujanshanmugaraj&layout=compact&langs_count=5&theme=default)
 
 
 	
