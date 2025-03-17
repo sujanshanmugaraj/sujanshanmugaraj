@@ -37,7 +37,7 @@ Hello! I am **SUJAN S**, a Data Science Student at PSG College of Technology, Co
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sujanshanmugaraj&theme=onedark)
 
 ---
-
+<!--
 🌟 **Let's connect and build something amazing together!** 🌟
 
  ## 📊 Profile Stats
