@@ -2,9 +2,8 @@
 
 Hello! I am **SUJAN S**, a Data Science Student at PSG College of Technology, Coimbatore.  
 - 🔭 I’m excited to collaborate on innovative projects and contribute to open-source communities.  
-- 🌱 Currently diving deep into **Machine Learning** and **Data Analytics** to enhance my skill set.  
-- ⚡ Fun fact: I like to paint and watch movies in my free time.  
-
+- 🌱 Currently diving deep into **Machine Learning** and **Data Analytics** to enhance my skill set.
+  
 ---
 
 ## 🌐 Socials:
