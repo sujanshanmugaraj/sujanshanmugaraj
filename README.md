@@ -70,10 +70,15 @@ I'm passionate about **Artificial Intelligence**, **Machine Learning**, **Data s
 
 ---
 
+🌱 Currently exploring:
+🚀 **Big Data**:  
+Diving into technologies like **PySpark** and **Kafka** for real-time data extraction, processing, and visualization.
 
-## 📊 Most Used Languages
+🧠 **AI-Driven Knowledge Systems**:  
+Exploring **knowledge-based systems** such as chatbots to enhance automation, natural interaction, and intelligent decision-making.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujanshanmugaraj&layout=compact&langs_count=5&theme=default)
+🔁 **Neural Networks**:  
+Currently learning **Recurrent Neural Networks (RNN)** for time-series and sequential data, and **Graph Neural Networks (GNN)** for working with structured graph-based data.
 
 
 <!--
