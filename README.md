@@ -13,16 +13,18 @@ I'm passionate about **Artificial Intelligence**, **Machine Learning**, **Data s
 
 ## 📬 Connect With Me
 
-- 📧 **Email**: [sujanshanmugaraj@gmail.com](mailto:sujanshanmugaraj@gmail.com)  
+- 📧 **Email**: [sujanshanmugaraj@gmail.com](mailto:sujanshanmugaraj@gmail.com)
+- 📄 [My Resume](https://github.com/sujanshanmugaraj/sujanshanmugaraj/blob/main/Sujan_resume%20(1).pdf)  
+
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_sujanraj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujan-s)
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -59,18 +61,18 @@ I'm passionate about **Artificial Intelligence**, **Machine Learning**, **Data s
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujanshanmugaraj&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujanshanmugaraj&layout=compact&theme=radical)
 
 ---
 
-## 🏆 GitHub Trophies:
+## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sujanshanmugaraj&theme=onedark)
 
 ---
 
-🌱 Currently exploring:
+## 🌱 Currently exploring
 🚀 **Big Data**:  
 Diving into technologies like **PySpark** and **Kafka** for real-time data extraction, processing, and visualization.
 
