@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sujan S</h1>
 
 Hello! I am **SUJAN S**, a Data Science Student at PSG College of Technology, Coimbatore.  
-- 🔭 I’m excited to collaborate on innovative projects and contribute to open-source communities.  
-- 🌱 Currently diving deep into **Machine Learning** and **Data Analytics** to enhance my skill set.
+## 👋 About Me
+
+I'm passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**, with a strong drive to turn complex problems into smart, scalable solutions.  
+🔍 Experienced in building projects across **Computer Vision**, **Natural Language Processing (NLP)**, **Predictive Modeling**, and **Data Analytics**.  
+⚙️ Skilled in developing **real-time systems**, integrating **ASR technologies**, and leveraging **deep learning** for impactful, real-world applications.  
+🌱 Currently diving deeper into **ML** and **Data Analytics** to sharpen my edge.  
+🔭 Excited to collaborate on **innovative projects**, contribute to **open-source communities**, and keep pushing the boundaries of what tech can do.
   
 ---
 
