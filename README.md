@@ -8,7 +8,11 @@ I'm passionate about **Artificial Intelligence**, **Machine Learning**, **Data s
 ⚙️ Skilled in developing **real-time systems** and leveraging **deep learning** for impactful, real-world applications.  
 🌱 Currently diving deeper into **ML** and **Data Analytics** to sharpen my edge.  
 🔭 Excited to collaborate on **innovative projects**, contribute to **open-source communities**, and keep pushing the boundaries of what tech can do.
-  
+---
+
+## 📬 Connect With Me
+
+- 📧 **Email**: [sujanshanmugaraj@gmail.com](mailto:sujanshanmugaraj@gmail.com)  
 ---
 
 ## 🌐 Socials:
