@@ -4,7 +4,7 @@ Hello! I am **SUJAN S**, a Data Science Student at PSG College of Technology, Co
 ## 🙋‍♂️ About Me
 
 I'm passionate about **Artificial Intelligence**, **Machine Learning**, **Data science** and **Software Development**, with a strong drive to turn complex problems into smart, scalable solutions.  
-🔍 Experienced in building projects across **Computer Vision**, **Natural Language Processing (NLP)**, **Predictive Modeling**, and **Data Analytics**.  
+🔍 Experienced in building projects across **AI**, **Natural Language Processing (NLP)**, **Predictive Modeling**, and **Data Analytics**.  
 ⚙️ Skilled in developing **real-time systems** and leveraging **deep learning** for impactful, real-world applications.  
 🌱 Currently diving deeper into **ML** and **Data Analytics** to sharpen my edge.  
 🔭 Excited to collaborate on **innovative projects**, contribute to **open-source communities**, and keep pushing the boundaries of what tech can do.
