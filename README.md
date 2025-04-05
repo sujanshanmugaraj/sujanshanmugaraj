@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujan S</h1>
 
-Hello! I am **SUJAN S**, a Data Science Student at PSG College of Technology, Coimbatore.  
+A Data Science Student at PSG College of Technology, Coimbatore.  
 ## 🙋‍♂️ About Me
 
 I'm passionate about **Artificial Intelligence**, **Machine Learning**, **Data science** and **Software Development**, with a strong drive to turn complex problems into smart, scalable solutions.  
@@ -15,7 +15,6 @@ I'm passionate about **Artificial Intelligence**, **Machine Learning**, **Data s
 
 - 📧 **Email**: [sujanshanmugaraj@gmail.com](mailto:sujanshanmugaraj@gmail.com)
 - 📄 [My Resume](https://github.com/sujanshanmugaraj/sujanshanmugaraj/blob/main/Sujan_resume%20(1).pdf)  
-
 ---
 
 ## 🌐 Socials
