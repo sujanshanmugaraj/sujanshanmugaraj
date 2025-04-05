@@ -8,6 +8,7 @@ I'm passionate about **Artificial Intelligence**, **Machine Learning**, **Data s
 ⚙️ Skilled in developing **real-time systems** and leveraging **deep learning** for impactful, real-world applications.  
 🌱 Currently diving deeper into **ML** and **Data Analytics** to sharpen my edge.  
 🔭 Excited to collaborate on **innovative projects**, contribute to **open-source communities**, and keep pushing the boundaries of what tech can do.
+
 ---
 
 ## 📬 Connect With Me
@@ -68,6 +69,13 @@ I'm passionate about **Artificial Intelligence**, **Machine Learning**, **Data s
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sujanshanmugaraj&theme=onedark)
 
 ---
+
+
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujanshanmugaraj&layout=compact&langs_count=5&theme=default)
+
+
 <!--
 🌟 **Let's connect and build something amazing together!** 🌟
 
