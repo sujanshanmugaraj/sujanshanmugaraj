@@ -71,10 +71,6 @@ I'm passionate about **Artificial Intelligence**, **Machine Learning**, **Data s
 
 ---
 
-<!--![Profile views](https://komarev.com/ghpvc/?username=sujanshanmugaraj&color=blue)--!>
-
----
-
 ## 🌱 Currently exploring
 🚀 **Big Data**:  
 Diving into technologies like **PySpark** and **Kafka** for real-time data extraction, processing, and visualization.
