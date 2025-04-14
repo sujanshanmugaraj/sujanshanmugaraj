@@ -71,7 +71,7 @@ I'm passionate about **Artificial Intelligence**, **Machine Learning**, **Data s
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=sujanshanmugaraj&color=blue)
+<!--![Profile views](https://komarev.com/ghpvc/?username=sujanshanmugaraj&color=blue)--!>
 
 ---
 
